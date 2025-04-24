@@ -35,7 +35,7 @@ Two departments — Marketing and Customer Experience — have requested an in-d
 - 🧭 **Seasonality trend:** Peaks in February & July — missed marketing potential
 
 **Visualization:**  
-(![Decreased Conversion Rates](https://github.com/user-attachments/assets/e6ef7a31-c7a5-406d-8b65-6c439df5a687)
+![Decreased Conversion Rates](https://github.com/user-attachments/assets/e6ef7a31-c7a5-406d-8b65-6c439df5a687)
 
 
 ---
@@ -48,8 +48,9 @@ Two departments — Marketing and Customer Experience — have requested an in-d
 - 📲 **Social media clicks and likes** low despite high views
 
 **Visualization:**  
-![Conversion Rate Trend](![Uploading Reduced Customer Engagement.png…]()
-)
+![Reduced Customer Engagement](https://github.com/user-attachments/assets/6c91e7f4-eae1-4300-bb37-450ab5cb2f1c)
+
+
 
 
 
@@ -64,7 +65,9 @@ Two departments — Marketing and Customer Experience — have requested an in-d
 - ⚠️ Mixed reviews point to areas of frustration — opportunities for improvement
 
 **Visualization:**  
-![Uploading Customer Feedback Analysis.png…]()
+![Customer Feedback Analysis](https://github.com/user-attachments/assets/5b445ee4-318d-4937-9fbe-314161b4a7ea)
+
+
 
 
 ---
