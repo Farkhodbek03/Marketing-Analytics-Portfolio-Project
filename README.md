@@ -48,7 +48,10 @@ Two departments — Marketing and Customer Experience — have requested an in-d
 - 📲 **Social media clicks and likes** low despite high views
 
 **Visualization:**  
-![Uploading Reduced Customer Engagement.png…]()
+![Conversion Rate Trend](![Uploading Reduced Customer Engagement.png…]()
+)
+
+
 
 
 ---
